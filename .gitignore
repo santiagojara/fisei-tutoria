@@ -1,0 +1,4 @@
+*.log
+*.exe
+compile.class
+conexionbd.java
